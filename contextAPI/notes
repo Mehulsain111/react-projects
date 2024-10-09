@@ -1,0 +1,10 @@
+Use a react icon library https://react-icons.github.io/react-icons/
+You can use a lot of icon without managing them
+====>>>>>>>>>>>>>method to install and use icon
+npm install react-icon -save
+For use : import {Icon name} from 'react-icon/fc';
+
+/////------Inspecting with React dev tool
+//1. Open the browser developer tools
+//2. Switch to the React tabq
+
