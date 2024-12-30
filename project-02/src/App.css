@@ -1,0 +1,21 @@
+body {
+  background-color: #121212;
+  color: aliceblue;
+  text-align: center;
+  font-family: sans-serif;
+}
+input {
+  width: 40%;
+  height: 30px;
+}
+::placeholder {
+  font-size: large;
+}
+.fa-solid,
+.fas {
+  font-weight: 900 !important;
+  position: absolute !important;
+  right: 421px !important;
+  color: black !important;
+  top: 91px !important;
+}

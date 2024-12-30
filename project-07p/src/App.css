@@ -1,0 +1,15 @@
+* {
+  transition: all 0.5s;
+}
+body {
+  background-color: #121212;
+  text-align: center;
+}
+.btn {
+  padding: 16px;
+}
+.btn2 {
+  padding: 19px !important;
+  padding-block: 17px !important;
+  margin: 9px !important;
+}
